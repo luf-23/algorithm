@@ -1,6 +1,7 @@
 package com.task;
 
 import com.task.leetcode.*;
+import com.task.leetcode.common.ListNode;
 
 import java.util.Arrays;
 
@@ -22,6 +23,9 @@ public class Main {
         //System.out.println(new _560().subarraySum(new int[]{1,1,1},2));
         //System.out.println(Arrays.toString(new _239().maxSlidingWindow(new int[]{1, 3, -1, -3, 5, 3, 6, 7}, 3)));
         //System.out.println(new _76().minWindow("ADOBECODEBANC","ABC"));
+        //System.out.println(new _19().removeNthFromEnd(ListNode.build(new int[]{1,2,3,4,5}),2));
+        //System.out.println(new _24().swapPairs(ListNode.build(new int[]{1,2,3,4})));
+        new _146().test();
 
     }
 }
