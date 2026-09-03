@@ -25,7 +25,12 @@ public class Main {
         //System.out.println(new _76().minWindow("ADOBECODEBANC","ABC"));
         //System.out.println(new _19().removeNthFromEnd(ListNode.build(new int[]{1,2,3,4,5}),2));
         //System.out.println(new _24().swapPairs(ListNode.build(new int[]{1,2,3,4})));
-        new _146().test();
-
+        //new _146().test();
+        System.out.println(new _200().numIslands(new char[][]{
+                {'1','1','1','1','0'},
+                {'1','1','0','1','0'},
+                {'1','1','0','0','1'},
+                {'0','0','1','1','1'}
+        }));
     }
 }

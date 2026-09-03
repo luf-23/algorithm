@@ -1,4 +1,7 @@
-package com.task.leetcode.common;
+package com.task.leetcode.algo;
+
+import com.task.leetcode.common.DoublyListNode;
+import com.task.leetcode.common.Pair;
 
 import java.util.HashMap;
 import java.util.Map;
