@@ -1,6 +1,6 @@
 package com.task.leetcode;
 
-import com.task.leetcode.algo.BFS;
+import com.task.algo.graph.BFS;
 
 public class _200 {
     public int numIslands(char[][] grid) {

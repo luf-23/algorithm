@@ -1,9 +1,6 @@
 package com.task;
 
 import com.task.leetcode.*;
-import com.task.leetcode.common.ListNode;
-
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,11 +23,16 @@ public class Main {
         //System.out.println(new _19().removeNthFromEnd(ListNode.build(new int[]{1,2,3,4,5}),2));
         //System.out.println(new _24().swapPairs(ListNode.build(new int[]{1,2,3,4})));
         //new _146().test();
-        System.out.println(new _200().numIslands(new char[][]{
-                {'1','1','1','1','0'},
-                {'1','1','0','1','0'},
-                {'1','1','0','0','1'},
-                {'0','0','1','1','1'}
+//        System.out.println(new _200().numIslands(new char[][]{
+//                {'1','1','1','1','0'},
+//                {'1','1','0','1','0'},
+//                {'1','1','0','0','1'},
+//                {'0','0','1','1','1'}
+//        }));
+        System.out.println(new _994().orangesRotting(new int[][]{
+                {2,1,1},
+                {1,1,0},
+                {0,1,1}
         }));
     }
 }
