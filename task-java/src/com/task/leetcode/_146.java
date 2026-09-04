@@ -1,6 +1,6 @@
 package com.task.leetcode;
 
-import com.task.leetcode.algo.LRUCache;
+import com.task.algo.LRUCache;
 
 public class _146 {
     // 146.LRU

@@ -1,6 +1,6 @@
 package com.task.leetcode;
 
-import com.task.leetcode.common.ListNode;
+import com.task.common.ListNode;
 
 public class _141 {
     //141. 环形链表，快慢指针

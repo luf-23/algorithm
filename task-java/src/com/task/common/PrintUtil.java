@@ -1,4 +1,4 @@
-package com.task.leetcode.common;
+package com.task.common;
 
 public class PrintUtil {
     public static void printArray(Object[] array) {

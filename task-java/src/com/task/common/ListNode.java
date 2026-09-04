@@ -1,4 +1,4 @@
-package com.task.leetcode.common;
+package com.task.common;
 
 public class ListNode {
     public int val;

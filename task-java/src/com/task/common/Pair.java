@@ -1,4 +1,4 @@
-package com.task.leetcode.common;
+package com.task.common;
 
 public class Pair<T,U> {
     private T first;

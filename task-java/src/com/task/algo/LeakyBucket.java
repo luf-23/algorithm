@@ -1,4 +1,4 @@
-package com.task.leetcode.algo;
+package com.task.algo;
 
 import java.util.concurrent.locks.ReentrantLock;
 

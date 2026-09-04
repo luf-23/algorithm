@@ -1,9 +1,6 @@
 package com.task.leetcode;
 
-import com.task.leetcode.common.ListNode;
-
-import java.util.HashSet;
-import java.util.Set;
+import com.task.common.ListNode;
 
 public class _160 {
 //    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
